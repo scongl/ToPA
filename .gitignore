@@ -8,3 +8,4 @@ Qwen/
 logs/
 runs/
 pissa-dataset/*/
+.gitignore
